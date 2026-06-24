@@ -1,0 +1,61 @@
+# app-ads.txt for Liuyang Kangfan Trading Co., Ltd.
+# This file is used by advertising networks to verify publisher identity and inventory.
+# Last Updated: June 15, 2024
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network
+facebook.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Unity Ads
+unity3d.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AppLovin
+applovin.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# ironSource
+ironsrc.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Chartboost
+chartboost.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Pangle
+bidswitch.net, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+bytedance.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Mintegral
+mintegral.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Vungle (Digital Turbine)
+vungle.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Smaato
+smaato.net, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# InMobi
+inmobi.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Liftoff
+liftoff.io, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Fyber
+fyber.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# StartApp
+start.io, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AdColony
+adcolony.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Mopub (AppLovin)
+mopub.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Verve
+verve.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Flurry (Yahoo)
+yahoo.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+flurry.com, XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Note: Replace XXXXXXXXXXXXXXXX with actual publisher IDs from each ad network

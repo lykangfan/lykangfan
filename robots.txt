@@ -1,0 +1,40 @@
+# robots.txt for Liuyang Kangfan Trading Co., Ltd.
+# Website: https://lykangfan.com
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /services.html
+Allow: /culture.html
+Allow: /news.html
+Allow: /contact.html
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Sitemap location
+Sitemap: https://lykangfan.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Googlebot specific settings
+User-agent: Googlebot
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Bingbot specific settings
+User-agent: Bingbot
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Slurp bot specific settings
+User-agent: Slurp
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
